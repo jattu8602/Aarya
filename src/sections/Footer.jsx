@@ -185,11 +185,11 @@ const Footer = () => {
           >
             Made with &hearts; by{" "}
             <a
-              href="http://devdreaming.com"
+              href="https://github.com/jattu8602"
               target={"_blank"}
               rel="dofollow noreferrer"
             >
-              CodeBucks
+              jattu8602
             </a>
           </span>
         </Bottom>
