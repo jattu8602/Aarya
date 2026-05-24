@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "wibe-studio",
+      "name": "aarya-studio",
       "dependencies": {
         "@fontsource/kaushan-script": "^5.2.8",
         "@fontsource/sirin-stencil": "^5.2.8",

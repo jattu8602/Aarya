@@ -7,7 +7,7 @@
 This repository contains final code for Fashion Studio Website in ReactJS. <br />
 
 View Demo👇: <br />
-https://wibe-studio.netlify.app/ <br />
+https://aarya-studio.netlify.app/ <br />
 
 checkout following **Tutorial** to learn👇: <br />
 <a href="https://devdreaming.com/videos/build-stunning-fashion-studio-website-with-reactJS-locomotive-scroll-gsap" target="_blank">🔥Build a Stunning Fashion Studio Website with React JS</a> ![YouTube Video Views](https://img.shields.io/youtube/views/Ra1Fsa9YJCk?style=social) </br >
@@ -41,10 +41,10 @@ bun run preview  # preview the production build
 
 
 ### Images of The Fashion Studio Website:
-![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Desktop.png)
-![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Desktop.png)
-![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Moblie.png)
-![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Mobile.png)
+![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Aarya-Home-Desktop.png)
+![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Aarya-About-Desktop.png)
+![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Aarya-Home-Moblie.png)
+![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Aarya-About-Mobile.png)
 
 
 ### Resources Used in This Project

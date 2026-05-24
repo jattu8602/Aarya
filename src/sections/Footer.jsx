@@ -130,12 +130,12 @@ const Footer = () => {
           width="300"
           height="300"
           src={Logo}
-          alt="Wibe"
+          alt="Aarya"
           data-scroll
           data-scroll-speed="2"
         />
         <h3 data-scroll data-scroll-speed="-1">
-          Wibe Studio
+          Aarya Studio
         </h3>
       </LogoContainer>
       <FooterComponent
