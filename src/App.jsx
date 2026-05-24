@@ -37,6 +37,7 @@ function App() {
             // ... all available Locomotive Scroll instance options
             smartphone: {
               smooth: true,
+              lerp: 0.03,
             },
             tablet: {
               smooth: true,
